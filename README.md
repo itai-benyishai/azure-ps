@@ -1,9 +1,9 @@
 # azure-ps
-Assignment for au10tix DevOps Role By Itai Benyishai
-The Main ps1 file is azure.ps1 ( The other scripts are called for by the main Script )
-Azure.ps1 is documented in deatail with comments.
+ - Assignment for au10tix DevOps Role By Itai Benyishai
+ - The Main ps1 file is azure.ps1 ( The other scripts are called for by the main Script )
+ - Azure.ps1 is documented in deatail with comments.
 
-The Script does all the tasks as requested in the assignment. 
+**The Script does all the tasks as requested in the assignment.** 
 
 1. Creates a Blob Storage (Test-blob) and Uploads a picture file to the Blob Storage
 2. Lists the files in the Blob Storage
