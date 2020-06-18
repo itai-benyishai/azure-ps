@@ -5,7 +5,7 @@
 $vm = Get-AzVM -Name test-windows -Status
 $containername = "test-blob"
 
-# Connect to Aws Account
+# Connect to Account
 Connect-AzAccount
 
 ## Uploading file to Storage and to VM.
